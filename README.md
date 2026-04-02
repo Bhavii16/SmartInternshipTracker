@@ -70,7 +70,7 @@ Smart Internship Tracker is a full-stack web application designed to streamline 
 
 ---
 
-## Viva Preparation: Key Points to Explain
+## Key Points 
 - **Architecture:**
   - MVC pattern (Models, Views, Controllers)
   - RESTful API design
